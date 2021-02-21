@@ -1,0 +1,12 @@
+Please leave this information in your source codes in order to avoid torment when modified by other people#
+###########################################################################################################
+
+GCC toolchain
+AARCH64 - https://releases.linaro.org/components/toolchain/binaries/latest-7/aarch64-linux-gnu/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu.tar.xz
+
+arm - https://releases.linaro.org/components/toolchain/binaries/latest-7/arm-linux-gnueabihf/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf.tar.xz
+
+
+Config:
+tema-nitrogen_defconfig
+
